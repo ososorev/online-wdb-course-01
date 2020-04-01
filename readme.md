@@ -1,1 +1,3 @@
-First project
+Initial project
+===============
+Web development basics
